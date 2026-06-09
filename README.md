@@ -1,8 +1,5 @@
 # EffectiveMobile_Test
 
-
-# Effective Mobile Test Task
-
 Простое веб-приложение, развернутое в Docker-контейнерах.
 Приложение доступно пользователю через Nginx, который работает как reverse proxy и проксирует запросы к backend-сервису внутри Docker-сети.
 
